@@ -1,0 +1,1 @@
+This project focuses on creating an agent-based simulation model to understand the spread of COVID-19 within a population and evaluate the effectiveness of various mitigation strategies. Implemented in Python using the Mesa library, the simulation incorporates diverse parameters and scenarios to represent real-world complexities.
