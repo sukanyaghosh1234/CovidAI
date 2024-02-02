@@ -1,0 +1,16 @@
+Date,NextDate,lockdown_status,protective_measures,Comment
+22-03-2020,27-04-2020,Complete Lockdown,Both," Nationwide lockdown in Germany, including Rheinland-Pfalz, with strict measures such as social distancing, closure of non-essential businesses, schools, and public gatherings, and travel restrictions."
+27-04-2020,01-08-2020,Partial Lockdown,Both," Gradual easing of restrictions, with some businesses and schools reopening, but with continued social distancing and hygiene measures in place."
+01-08-2020,01-10-2020,No Lockdown,Mask Mandatory, Mandatory use of masks in public transport and certain public areas.
+01-10-2020,02-11-2020,Partial Lockdown,Social Distancing, Increase in COVID-19 cases leading to regional lockdowns and restrictions on social gatherings.
+02-11-2020,01-03-2021,Complete Lockdown,Both," Nationwide ""lockdown light"" with stricter measures, including the closure of restaurants, bars, and cultural venues."
+01-03-2021,29-03-2021,Partial Lockdown,Both," Gradual easing of restrictions, with some businesses and schools reopening, but with continued social distancing and hygiene measures in place."
+29-03-2021,19-04-2021,Partial Lockdown,Mask Mandatory," ""Emergency brake"" measures introduced to tighten restrictions in areas with high infection rates."
+19-04-2021,12-05-2021,Partial Lockdown,Mask Mandatory, Phased reopening of schools with a combination of in-person and remote learning.
+12-05-2021,01-06-2021,No Lockdown,Social Distancing," Further easing of restrictions, including the reopening of outdoor dining, cultural venues, and sports facilities."
+01-06-2021,23-08-2021,No Lockdown,No Measures," Continued relaxation of measures, with further reopening of businesses and relaxation of mask-wearing requirements in certain areas."
+23-08-2021,28-02-2022,No Lockdown,Social Distancing," Introduction of a ""3G"" rule (tested, vaccinated, recovered) for certain indoor activities."
+28-02-2022,15-03-2022,No Lockdown,Social Distancing," Gradual easing of restrictions, with some businesses and schools reopening, but with continued social distancing and hygiene measures in place."
+15-03-2022,31-03-2022,No Lockdown,Both," Lifting of mask-wearing requirements in certain areas, but with continued emphasis on social distancing and hygiene measures."
+31-03-2022,01-07-2022,No Lockdown,No Measures," Relaxation of restrictions on gatherings and events, with larger gatherings allowed with certain conditions."
+01-07-2022,30-07-2022,No Lockdown,No Measures," Continued relaxation of measures, with further reopening of businesses, cultural venues, and sports facilities."
